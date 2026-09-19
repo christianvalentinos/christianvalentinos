@@ -14,30 +14,30 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">[Nama Kamu]</h1>
-<p align="center">[Role/Status singkat, contoh: "Peserta Workshop Git & GitHub | Junior Frontend Enthusiast"]</p>
+<h1 align="center">[Christian Valentino Setiawan]</h1>
+<p align="center">["Peserta Workshop Git & GitHub | Junior Frontend Enthusiast"]</p>
 
 ---
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: [contoh: Mahasiswa/Karyawan di ...]
-- **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
-- **Target**: [contoh: Menjadi Frontend Developer profesional]
-- **Fun fact**: [isi sesuatu yang unik tentang kamu]
+- **Pekerjaan Saat ini**: Mahasiswa di BINUS @Bandung
+- **Sedang mendalami**: Git & GitHub Workflow
+- **Target**: Menjadi programmer profesional
+- **Fun fact**: Penyuka game RGG Studio
 
 ---
 
 ### Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/username-kamu" target="_blank">
+  <a href="https://www.linkedin.com/in/christian-valentino-setiawan-66a546433/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/username-kamu" target="_blank">
+  <a href="https://instagram.com/christianvalentinos" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:email-kamu@example.com">
+  <a href="mailto:tiansetiawan234@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
